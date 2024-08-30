@@ -1,6 +1,6 @@
 ## Bridge Checker
 Upload a route as geojson and see what bridges you'll cross
-![image](https://github.com/user-attachments/assets/98486a58-61a4-48f0-9344-a881814bcb31)
+![image](https://github.com/user-attachments/assets/39a2ae69-4106-4489-8864-b30886b071f0)
 
 ### To run
 

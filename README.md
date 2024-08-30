@@ -17,3 +17,6 @@
 #### Step 3
 
 - Development Mode: `npm run start`
+
+### Credit
+Project template from https://github.com/dstamenkovic/react-express-starter/tree/main
